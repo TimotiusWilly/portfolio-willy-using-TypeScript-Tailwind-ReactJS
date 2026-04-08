@@ -10,7 +10,7 @@ function App() {
         <div className="animate__animated animate__fadeInUp animate__delay-3s">
           <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy"/>
-            <q>I'm not the best Coder, but I keep learning.👌</q>
+            <q>I'm not the best Coder, but I keep learning.</q>
           </div>
           <h1 className="text-4xl/tight font-bold mb-6">Hi, Saya Timotius Willy Narendra</h1>
           <p className="text-base/loose mb-6 opacity-50">Saya adalah mahasiswa program studi Informatika di Universitas Jenderal Soedirman. Saya memiliki ketertarikan mendalam pada bidang pemrograman, dengan fokus utama pada pengembangan dan perancangan situs web, serta mempunyai ketertarikan dalam bidang Artificial Intelligence atau biasa disingkat AI. </p>
