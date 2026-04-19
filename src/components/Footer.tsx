@@ -9,16 +9,16 @@ const Footer = () => {
             <a href="#">Proyek</a>
         </div>
         <div className="flex items-center gap-3">
-            <a href="#">
+            <a href="https://github.com/TimotiusWilly?tab=repositories" target="_blank" rel="noopener noreferrer">
                 <i className="ri-github-fill ri-2x"></i>
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/willynaren/" target="_blank" rel="noopener noreferrer">
                 <i className="ri-instagram-fill ri-2x"></i>
             </a>
-            <a href="#">
+            <a href="https://web.facebook.com/timotius.willy.363979?_rdc=1&_rdr#" target="_blank" rel="noopener noreferrer">
                 <i className="ri-facebook-fill ri-2x"></i>
             </a>
-            <a href="#">
+            <a href="https://discord.com/users/willygg0887" target="_blank" rel="noopener noreferrer">
                 <i className="ri-discord-fill ri-2x"></i>
             </a>
         </div>
